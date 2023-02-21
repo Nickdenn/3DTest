@@ -1,5 +1,5 @@
 /*!
- * jQuery JavaScript Library v1.9.1
+ * jQuery JavaScript Library v3.6.3
  * http://jquery.com/
  *
  * Includes Sizzle.js
@@ -45,7 +45,7 @@ var
 	// List of deleted data cache ids, so we can reuse them
 	core_deletedIds = [],
 
-	core_version = "1.9.1",
+	core_version = "3.6.3",
 
 	// Save a reference to some core methods
 	core_concat = core_deletedIds.concat,
